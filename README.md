@@ -1,7 +1,7 @@
 # Magnetic-Sensor-Arduino-Project
 ---
 
-## 📝 Overview
+## Overview
 This project focuses on the design and implementation of a sensor aimed at remotely detecting power-frequency magnetic fields (50Hz/60Hz), particularly those emanating from high-tension lines and substations.
 
 The objective was to quantify magnetic field intensity in **Gauss (G)** units using a linear Hall Effect sensor and an Arduino microcontroller to identify potential hazards in industrial and residential environments.
